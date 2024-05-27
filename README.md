@@ -1,5 +1,5 @@
 # Galeria de fotos em react
-Projeto de uma galeria de fotos que esta consumindo de uma API externa, feito em reactjs - typescript e styled-components.
+Projeto de uma galeria de fotos, está responsivo e consumindo de uma API externa, feito em reactjs - typescript e styled-components.
 
 ## Tecnologias Usadas:
 
